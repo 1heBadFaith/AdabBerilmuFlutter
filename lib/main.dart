@@ -48,7 +48,7 @@ class HomeUtama extends StatelessWidget {
 
         centerTitle: true,
 
-        title: Text('Panduan Tayamum'),
+        title: Text('Adab Berilmu'),
 
         actions: <Widget>[
 
